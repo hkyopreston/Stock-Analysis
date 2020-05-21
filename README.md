@@ -1,2 +1,2 @@
-# Stock-Analysis
-## Module 2 Challenge
+Stock-Analysis
+# Module 2 Challenge
